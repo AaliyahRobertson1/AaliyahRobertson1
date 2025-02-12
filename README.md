@@ -9,7 +9,7 @@ I’m an IT support engineer with a strong background in cloud computing, networ
 
 - 👯 I’m looking to collaborate on **Cloud projects, AWS automation, and Python scripting.**
 
--🔧 Experienced in Linux, Python, JavaScript, and cloud networking
+- 🔧 Experienced in Linux, Python, JavaScript, and cloud networking
 
 - 📫 How to reach me **Aaliyah.robertson@gmail.com**
 
