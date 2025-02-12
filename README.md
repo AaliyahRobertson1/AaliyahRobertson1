@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm <strong>Aaliyah 😁</strong></h1> 
 <h3 align="center">A passionate IT Specialist</h3>
 
+🌟 About Me
+I’m an IT support engineer with a strong background in cloud computing, networking, and troubleshooting. Whether it’s debugging applications, optimizing AWS environments, or automating workflows, I love tackling technical challenges and turning problems into solutions.
+
+
 - 🌱 I’m currently learning **Jenkins for CI/CD automation and improving my skills**
 
 - 👯 I’m looking to collaborate on **Cloud projects, AWS automation, and Python scripting.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AaliyahRobertson1](https://github.com/AaliyahRobertson1)
-
-- 💬 Ask me about **AWS and IT Support**
+-🔧 Experienced in Linux, Python, JavaScript, and cloud networking
 
 - 📫 How to reach me **Aaliyah.robertson@gmail.com**
 
